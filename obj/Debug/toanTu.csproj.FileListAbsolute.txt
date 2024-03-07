@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\toanTu\bin\Debug\toanTu.exe.config
+D:\visual studio\BaiTapCodeGym\toanTu\bin\Debug\toanTu.exe
+D:\visual studio\BaiTapCodeGym\toanTu\bin\Debug\toanTu.pdb
+D:\visual studio\BaiTapCodeGym\toanTu\obj\Debug\toanTu.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\toanTu\obj\Debug\toanTu.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\toanTu\obj\Debug\toanTu.exe
+D:\visual studio\BaiTapCodeGym\toanTu\obj\Debug\toanTu.pdb
